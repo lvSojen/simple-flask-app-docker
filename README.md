@@ -37,3 +37,12 @@ docker run -it --name flaskserver -p 5508:5000 -d yourusername/appname
 #### 4. Verify Setup
 
 You should now be able to access your Flask application by navigating to `localhost:5508` in your web browser. If everything is set up correctly, you should see your Flask application running as expected.
+
+#### 5. Tests
+
+Open a broswer and go to the URL
+
+```
+http://localhost:5508					=> Welcome
+http://localhost:5508/how%20are%20you?					=> I'm good, how about you?
+```
