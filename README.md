@@ -44,5 +44,5 @@ Open a broswer and go to the URL
 
 ```
 http://localhost:5508					=> Welcome
-http://localhost:5508/how%20are%20you?		  => I'm good, how about you?
+http://localhost:5508/how%20are%20you?		    => I'm good, how about you?
 ```
